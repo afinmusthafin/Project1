@@ -1,2 +1,2 @@
 # Project1
-After learning HTML & CSS we worked on this group project (2 people left out of 5 people) in 5 days.
+After learning HTML & CSS from 8th to 20th June we worked on this group project in 5 days.
